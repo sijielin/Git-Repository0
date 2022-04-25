@@ -1,3 +1,5 @@
 Name: Sijie Lin
 Program: EAP at Rotman
 Research Area: Industrial Organization
+
+Programming languages: Python, Matlab, Stata
